@@ -1,16 +1,23 @@
-# washcube_rider_app
+# WashCubes Rider Application
+WashCubes is a smart laundry locker mobile application that allows users to engage laundry services through the use of smart lockers. In the rider app, riders can select orders to pickup from lockers / dropoff to lockers, and they can confirm status of pickup / dropoff via the app. The app is made using Flutter and integrates with Node.js and MongoDB backend.
 
-A new Flutter project.
+This user app is a part of the WashCubes system which also consists of a rider app, admin dashboard, and the backend system itself. The repositories can be viewed as follows: <br>
+[WashCubes User App](https://github.com/IvanTan02/washcubes-user-app) <br>
+[WashCubes Admin Dashboard](https://github.com/IvanTan02/washcubes-admin-dashboard) <br>
+[WashCubes Backend](https://github.com/IvanTan02/washcubes-backend) <br>
 
-## Getting Started
+## Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+- [Collaborators](#collaborators)
 
-This project is a starting point for a Flutter application.
+## Features
+1. View / Select Available Orders to Pickup / Dropoff
+2. Confirm Order Pickup
+3. Confirm Order Dropoff
+4. View Job History
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Collaborators
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
